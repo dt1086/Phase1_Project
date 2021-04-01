@@ -1,8 +1,8 @@
 # Box Office Analysis for Microsoft Studios
-***
+
 
 ## Overview
-***
+
 Microsoft has decided to create a new movie studio. Our aim is to guide the newly founded Microsoft Studios in what kind of films they should focus on. We have analyzed historical data (focusing on cost and revenue) for both movies and directors in order to measure success and to discover any insights that may help guide Microsoft Studios to succeed and become the next film industry giant.
 
 ## Business Problem
