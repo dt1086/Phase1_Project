@@ -1,8 +1,8 @@
 # Box Office Analysis for Microsoft Studios
-***
+
 
 ## Overview
-***
+
 Microsoft has decided to create a new movie studio. Our aim is to guide the newly founded Microsoft Studios in what kind of films they should focus on. We have analyzed historical data (focusing on cost and revenue) for both movies and directors in order to measure success and to discover any insights that may help guide Microsoft Studios to succeed and become the next film industry giant.
 
 ## Business Problem
@@ -37,6 +37,6 @@ In order for Microsoft's new studio to be successful, we recommend the following
 
 ## Resources
 
- - <a href="https://github.com/jasonarikupurathu/Phase1_Project/blob/main/Microsoft_Film_Data_Analysis_Part_2.ipynb" target="_blank">Data Analysis Part 1</a>
+ - <a href="https://github.com/jasonarikupurathu/Phase1_Project/blob/main/Microsoft_Film_Data_Analysis.ipynb" target="_blank">Data Analysis Part 1</a>
  - <a href="https://github.com/jasonarikupurathu/Phase1_Project/blob/main/Microsoft_Film_Data_Analysis_Part_2.ipynb" target="_blank">Data Analysis Part 2</a>
  - <a href="https://github.com/jasonarikupurathu/Phase1_Project/blob/main/README.md" target="_blank">README</a>
