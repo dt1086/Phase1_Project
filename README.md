@@ -40,4 +40,5 @@ In order for Microsoft's new studio to be successful, we recommend the following
 
  - <a href="https://github.com/jasonarikupurathu/Phase1_Project/blob/main/Microsoft_Film_Data_Analysis.ipynb" target="_blank">Data Analysis Part 1</a>
  - <a href="https://github.com/jasonarikupurathu/Phase1_Project/blob/main/Microsoft_Film_Data_Analysis_Part_2.ipynb" target="_blank">Data Analysis Part 2</a>
+ - <a href="https://github.com/jasonarikupurathu/Phase1_Project/blob/main/Presentation_Slides.pdf" target="_blank">Presentation Slides</a>
  - <a href="https://github.com/jasonarikupurathu/Phase1_Project/blob/main/README.md" target="_blank">README</a>
